@@ -60,7 +60,7 @@ img{
 	max-width: 100%;
 }
 #sf {
-    background: url("mooca.jpg") no-repeat scroll center center #23526a; /* http://commons.wikimedia.org/wiki/File:S%C3%A3o_Paulo_-_casario_na_Mooca.jpg */
+    background: url("recorte.png") no-repeat scroll center center #23526a; /* http://commons.wikimedia.org/wiki/File:S%C3%A3o_Paulo_-_casario_na_Mooca.jpg */
     min-height: 280px;
 }
 header{
@@ -97,6 +97,11 @@ hr{
 	clear: both;
 	margin: 20px 0;
 }
+
+.corGrad {
+	color: #24a5e8;
+}
+
 .btn{
 	background: #24a5e8;
 	background: -moz-linear-gradient(top,  #24a5e8 0%, #2193cc 100%);
