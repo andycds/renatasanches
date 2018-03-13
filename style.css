@@ -60,7 +60,7 @@ img{
 	max-width: 100%;
 }
 #sf {
-    background: url("recorte.png") no-repeat scroll center center #23526a; /* http://commons.wikimedia.org/wiki/File:S%C3%A3o_Paulo_-_casario_na_Mooca.jpg */
+    background: url("recortem.png") no-repeat scroll left center #23526a; /* http://commons.wikimedia.org/wiki/File:S%C3%A3o_Paulo_-_casario_na_Mooca.jpg */
     min-height: 280px;
 }
 header{
